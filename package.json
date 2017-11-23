@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dekrement/ts-book#readme",
   "devDependencies": {
     "gulp-typescript": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
