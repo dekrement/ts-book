@@ -1,0 +1,22 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "blah-blah",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekrement/ts-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekrement/ts-book/issues"
+  },
+  "homepage": "https://github.com/dekrement/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.2.3"
+  }
+}
